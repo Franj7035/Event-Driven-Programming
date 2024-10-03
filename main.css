@@ -1,0 +1,24 @@
+/* Francisco J Hernandez Sanchez, 09/02/2024 */
+body {
+    background-color: black; 
+    color: whitesmoke;      
+    text-align: center;       
+    font-family: Arial, sans-serif;
+}
+#memeImage {
+    position: absolute; 
+    width: 400px;       
+    top: 50px;          
+    left: 50px;         
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+button {
+    display: block;
+    margin: 10px auto;   
+    padding: 10px 20px; 
+    font-size: 18px;     
+    cursor: pointer;   
+}
